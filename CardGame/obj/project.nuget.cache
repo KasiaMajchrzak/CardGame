@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqJm0qUZLREWsKn5zV0JNL1Nm2j0HHjKzamJTcX4+JNPYR0IIf9ci6by3khuzMzJ704z9CTbfFzYcOFBt4cneA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\katar\\source\\repos\\CardGame\\CardGame\\CardGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\katar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\katar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\katar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\katar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
